@@ -1,0 +1,15 @@
+Player: Tim Duncan, Position: Center, Team: Spurs, Value: 8
+Player: Jaylen Reynolds, Position: Forward, Team: Xavier, Value: 8	role: starter
+true
+Player: D'Angelo Russell, Position: Guard, Team: Lakers, Value: 6/tRole: starter, Years in League1
+0
+Player: Troy Caupain, Position: Guard, Team: UC, Value: 0	role: bench
+Player: Troy Caupain, Position: Guard, Team: UC, Value: 4	role: starter
+false
+2
+6
+Player: Lebron James, Position: Forward, Team: Cavs, Value: 10/tRole: starter, Years in League10
+12000000
+Player: Lebron James, Position: Forward, Team: Cavs, Value: 10/tRole: starter, Years in League10
+Player: David West, Position: Forward, Team: Spurs, Value: 8/tRole: bench, Years in League10
+5000000
